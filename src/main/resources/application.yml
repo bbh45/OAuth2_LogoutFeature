@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           github:
-            client-id: 908a3f636f199d147e41
-            client-secret: 8d3a85ee71fb1744534e6f81c6418e1671a8c687
+            client-id: <client-id here>
+            client-secret: <client-secret here>
             scope: user:email, user:follow
 
 #logging:
